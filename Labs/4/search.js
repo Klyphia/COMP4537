@@ -1,5 +1,5 @@
 // search.js - JavaScript for the Search page
-const API_BASE_URL = 'https://comp4537alexhe.onrender.com/api/definitions';
+const API_BASE_URL = 'http://64.181.233.131:8888/api/definitions';
 
 // Initialize page with strings
 document.getElementById('pageTitle').textContent = STRINGS.SEARCH_TITLE;
